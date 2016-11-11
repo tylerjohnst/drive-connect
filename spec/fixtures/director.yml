@@ -1,0 +1,14 @@
+---
+id: 2
+user_id: 2
+token: 07a7e54dfc97b407cb3f0ba095cdf7fd
+name: Jason's Controller
+location: Florida
+host: 173.169.93.34
+port: 80
+is_provisioned: true
+provisioned_at: 2014-10-08 01:00:13.971562000 Z
+is_synchronized: true
+last_synchronized_at: 2014-10-08 01:00:13.971563000 Z
+created_at: 2014-10-08 01:00:14.002270000 Z
+updated_at: 2014-10-08 01:00:14.002270000 Z

@@ -1,0 +1,29 @@
+{
+  "type": "FC-202",
+  "drive_status": {
+    "heatsink_temp": 27
+  },
+  "serial_number": "021604G293",
+  "motor_status": {
+    "current": 0,
+    "voltage": 1476,
+    "frequency": 406,
+    "speed": 2435
+  },
+  "flags": {
+    "status_word": 3335,
+    "alarm_word": 0,
+    "warning_word": 0,
+    "ext_status_word": 0
+  },
+  "payback": {
+    "kwh_counter": 16,
+    "power_reference_factor": 100,
+    "energy_cost": 17,
+    "investment": 10000,
+    "energy_savings": 29047,
+    "operating_hours": 5664,
+    "running_hours": 4907,
+    "number_of_starts": 194
+  }
+}

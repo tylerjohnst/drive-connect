@@ -1,0 +1,163 @@
+{
+  "0411_motor_speed_low_limit_rpm": 5,
+  "0413_motor_speed_high_limit_rpm": 3450,
+  "additional_non_working_days": {
+    "0": {
+      "0083_additional_non_working_days": 0
+    },
+    "1": {
+      "0083_additional_non_working_days": 0
+    },
+    "10": {
+      "0083_additional_non_working_days": 0
+    },
+    "11": {
+      "0083_additional_non_working_days": 0
+    },
+    "12": {
+      "0083_additional_non_working_days": 0
+    },
+    "13": {
+      "0083_additional_non_working_days": 0
+    },
+    "14": {
+      "0083_additional_non_working_days": 0
+    },
+    "2": {
+      "0083_additional_non_working_days": 0
+    },
+    "3": {
+      "0083_additional_non_working_days": 0
+    },
+    "4": {
+      "0083_additional_non_working_days": 0
+    },
+    "5": {
+      "0083_additional_non_working_days": 0
+    },
+    "6": {
+      "0083_additional_non_working_days": 0
+    },
+    "7": {
+      "0083_additional_non_working_days": 0
+    },
+    "8": {
+      "0083_additional_non_working_days": 0
+    },
+    "9": {
+      "0083_additional_non_working_days": 0
+    }
+  },
+  "additional_working_days": {
+    "0": {
+      "0082_additional_working_days": 0
+    },
+    "1": {
+      "0082_additional_working_days": 0
+    },
+    "2": {
+      "0082_additional_working_days": 0
+    },
+    "3": {
+      "0082_additional_working_days": 0
+    },
+    "4": {
+      "0082_additional_working_days": 0
+    }
+  },
+  "timed_actions": {
+    "0": {
+      "2300_on_time": 5400,
+      "2301_on_action": 2,
+      "2302_off_time": 66600,
+      "2303_off_action": 3,
+      "2304_occurrence": 3
+    },
+    "1": {
+      "2300_on_time": 7200,
+      "2301_on_action": 4,
+      "2302_off_time": 72000,
+      "2303_off_action": 5,
+      "2304_occurrence": 1
+    },
+    "2": {
+      "2300_on_time": 10800,
+      "2301_on_action": 43,
+      "2302_off_time": 43200,
+      "2303_off_action": 42,
+      "2304_occurrence": 2
+    },
+    "3": {
+      "2300_on_time": 14400,
+      "2301_on_action": 0,
+      "2302_off_time": 79200,
+      "2303_off_action": 0,
+      "2304_occurrence": 3
+    },
+    "4": {
+      "2300_on_time": 19800,
+      "2301_on_action": 0,
+      "2302_off_time": 40500,
+      "2303_off_action": 0,
+      "2304_occurrence": 4
+    },
+    "5": {
+      "2300_on_time": 21600,
+      "2301_on_action": 0,
+      "2302_off_time": 72000,
+      "2303_off_action": 0,
+      "2304_occurrence": 5
+    },
+    "6": {
+      "2300_on_time": 43200,
+      "2301_on_action": 0,
+      "2302_off_time": 57600,
+      "2303_off_action": 0,
+      "2304_occurrence": 6
+    },
+    "7": {
+      "2300_on_time": 10800,
+      "2301_on_action": 0,
+      "2302_off_time": 0,
+      "2303_off_action": 0,
+      "2304_occurrence": 7
+    },
+    "8": {
+      "2300_on_time": 21600,
+      "2301_on_action": 0,
+      "2302_off_time": 28800,
+      "2303_off_action": 0,
+      "2304_occurrence": 8
+    },
+    "9": {
+      "2300_on_time": 32400,
+      "2301_on_action": 0,
+      "2302_off_time": 39600,
+      "2303_off_action": 0,
+      "2304_occurrence": 9
+    }
+  },
+  "working_days": {
+    "0": {
+      "0081_working_days": 1
+    },
+    "1": {
+      "0081_working_days": 1
+    },
+    "2": {
+      "0081_working_days": 1
+    },
+    "3": {
+      "0081_working_days": 1
+    },
+    "4": {
+      "0081_working_days": 1
+    },
+    "5": {
+      "0081_working_days": 0
+    },
+    "6": {
+      "0081_working_days": 0
+    }
+  }
+}

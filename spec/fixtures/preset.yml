@@ -1,0 +1,57 @@
+---
+- id: 9
+  drive_id: 2
+  number: 0
+  name: 
+  value: 
+  created_at: 2014-10-08 01:00:14.044586000 Z
+  updated_at: 2014-10-08 01:00:14.044586000 Z
+- id: 10
+  drive_id: 2
+  number: 1
+  name: 
+  value: 
+  created_at: 2014-10-08 01:00:14.047183000 Z
+  updated_at: 2014-10-08 01:00:14.047183000 Z
+- id: 11
+  drive_id: 2
+  number: 2
+  name: 
+  value: 
+  created_at: 2014-10-08 01:00:14.048552000 Z
+  updated_at: 2014-10-08 01:00:14.048552000 Z
+- id: 12
+  drive_id: 2
+  number: 3
+  name: 
+  value: 
+  created_at: 2014-10-08 01:00:14.049812000 Z
+  updated_at: 2014-10-08 01:00:14.049812000 Z
+- id: 13
+  drive_id: 2
+  number: 4
+  name: 
+  value: 
+  created_at: 2014-10-08 01:00:14.051477000 Z
+  updated_at: 2014-10-08 01:00:14.051477000 Z
+- id: 14
+  drive_id: 2
+  number: 5
+  name: 
+  value: 
+  created_at: 2014-10-08 01:00:14.054027000 Z
+  updated_at: 2014-10-08 01:00:14.054027000 Z
+- id: 15
+  drive_id: 2
+  number: 6
+  name: 
+  value: 
+  created_at: 2014-10-08 01:00:14.055988000 Z
+  updated_at: 2014-10-08 01:00:14.055988000 Z
+- id: 16
+  drive_id: 2
+  number: 7
+  name: 
+  value: 
+  created_at: 2014-10-08 01:00:14.057685000 Z
+  updated_at: 2014-10-08 01:00:14.057685000 Z

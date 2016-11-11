@@ -1,0 +1,6 @@
+en:
+  drives:
+    labels:
+      name: Name
+      ip_address: IP Address
+      port: Port
